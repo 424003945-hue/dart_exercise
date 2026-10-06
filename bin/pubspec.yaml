@@ -1,0 +1,5 @@
+name: dart exercise
+
+description: A simple Dart program that calculates a student's checks if they passed
+
+Environment: Dartpad/ Dart SDK 3.0 or higher
