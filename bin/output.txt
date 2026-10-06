@@ -1,0 +1,5 @@
+Student: Antonia
+Score: 42.5 out of 50
+Percentage: 85%
+Present today? true
+Did the student pass? true
